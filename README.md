@@ -51,7 +51,7 @@ Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username:
 ```bash
 pkg update
 pkg install git -y
-git clone https://github.com/YOUR_GITHUB_USERNAME/nek-ly.git
+git clone https://github.com/xnixts/nek-ly.git
 cd nek-ly
 bash install.sh
 ```
@@ -64,7 +64,7 @@ Create an empty public repository named `nek-ly` on GitHub. Then, in this projec
 git init -b main
 git add .
 git commit -m "Nek Ly 1.0 initial release"
-git remote add origin https://github.com/YOUR_GITHUB_USERNAME/nek-ly.git
+git remote add origin https://github.com/xnixts/nek-ly.git
 git push -u origin main
 ```
 
