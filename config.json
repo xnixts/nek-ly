@@ -1,0 +1,7 @@
+{
+  "name": "Nek Ly",
+  "version": "1.0.0",
+  "tagline": "Your Linux learning environment",
+  "base": "Debian via proot-distro",
+  "maintainer": "Nek Ly community"
+}
